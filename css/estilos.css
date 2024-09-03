@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+}
+h1{
+    color: blue;
+    position: absolute;
+    top: 50%;
+    
+}
+.osito{
+    position: absolute;
+    left: 50%;
+}
+.oreja1{
+    background-color: coral;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+.oreja2{
+    background-color: coral;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    position: absolute;
+    top: 150px;
+    left: 315px;
+}
+.cabeza{
+    background-color: coral;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    left: 120px;
+}
+.ojo1{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 50px;
+}
+.ojo2{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 60px;
+    left: 140px;
+}
+.pupila1{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 15px;
+    left: 15px;    
+}
+.pupila2{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 15px;
+    left: 15px;    
+}
+.nariz{
+    background-color: black;
+    width: 33px;
+    height: 33px;
+    position: absolute;
+    top: 125PX;
+    left: 110PX;
+    border-radius: 50%;
+}
+.boca{
+    background-color: black;
+    width: 150px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    top: 180px;
+    left: 50px;
+}
+.boca2{
+    background-color: coral;  
+    width: 100px;
+    height: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 5px;
+    left: 25px;
+}
+.cuerpo{
+    background-color: coral; 
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    position: absolute;
+    top: 420px;
+    left: 75px;
+}
+.cuerpo1{
+    background-color: white;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+.cuerpo2{
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+.patita1{
+    background-color: coral; 
+    width: 75px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top: 475px;
+    left: 30px;
+}
+.patita2{
+    background-color: coral; 
+    width: 75px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top: 475px;
+    left: 395px;
+}
+.patita3{
+    background-color: coral; 
+    width: 75px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top: 675px;
+    left: 30px;
+}
+.patita4{background-color: coral; 
+    width: 75px;
+    height: 35px;
+    border-radius: 50%;
+    position: absolute;
+    top: 675px;
+    left: 395px;}
